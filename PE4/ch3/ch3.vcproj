@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="8.00"
-	Name="ch1"
-	ProjectGUID="{7A6583B5-984F-4264-B386-BA794A041434}"
-	RootNamespace="ch1"
+	Name="ch3"
+	ProjectGUID="{03A023B3-5293-4ED0-A862-28C5A858C16C}"
+	RootNamespace="ch3"
 	Keyword="Win32Proj"
 	>
 	<Platforms>
@@ -175,7 +175,7 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\ch1.cpp"
+				RelativePath=".\ch3.cpp"
 				>
 			</File>
 		</Filter>
